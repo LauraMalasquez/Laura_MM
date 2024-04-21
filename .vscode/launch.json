@@ -10,7 +10,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "https://lauramalasquez.github.io/Laura_MM/",
+            "url": "https://github.com/LauraMalasquez/Laura_MM.git",
             "webRoot": "${workspaceFolder}"
         }
     ]
